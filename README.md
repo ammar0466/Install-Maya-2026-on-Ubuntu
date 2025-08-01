@@ -43,7 +43,7 @@ Step to Install and running Autodesk Maya 2026 on Ubuntu
 
 7. Install dummy webkit2gtk3
 
-    Can create own .rpm package by using tutorial found on autodesk forum, use mine
+    Can create own .rpm package by using tutorial found on autodesk forum or use mine download from this repo.
 
     Install these package :
 
