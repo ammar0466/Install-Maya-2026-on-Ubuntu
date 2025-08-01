@@ -34,7 +34,7 @@ Step to Install and running Autodesk Maya 2026 on Ubuntu
     sudo dpkg -i adsklicensing15.1.0.12339_0-1_amd64.deb
     ```
 
-6. Install adODIS (It comes in Maya extracted package):
+6. Install adODIS (It comes in Maya extracted package), this package is dangerous, you need to careful read the term and condition, and force you to accept. :
 
     ```
     ./AdODIS-installer.run
@@ -84,3 +84,19 @@ Step to Install and running Autodesk Maya 2026 on Ubuntu
    ```
 
 10. Run maya
+
+
+    ## P/s :
+    
+    If still cant run, something you can try :
+    
+    install adskIdentityManager, but adODIS should automatic handle this.
+    
+    remove and reinstall adsklicensing.
+    
+    restart machine.
+    
+    set your default browser to google-chrome.
+    
+    after launch maya launch google-chrome also.
+
