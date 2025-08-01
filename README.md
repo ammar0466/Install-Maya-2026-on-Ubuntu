@@ -37,8 +37,7 @@ Step to Install and running Autodesk Maya 2026 on Ubuntu
 6. Install adODIS (It comes in Maya extracted package):
 
     ```
-       
-	  ./AdODIS-installer.run
+    ./AdODIS-installer.run
     ```
 
 7. Install dummy webkit2gtk3
